@@ -1,0 +1,5 @@
+{
+  "zig.zls.enabled": true,
+  "zig.zls.enableAutofix": true,
+  "zig.formattingProvider": "zls"
+}
