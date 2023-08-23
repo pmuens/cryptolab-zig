@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Zig",
+      "type": "lldb",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "cwd": "${workspaceFolder}",
+      "program": "${workspaceFolder}/zig-out/bin/cryptolab-zig"
+    }
+  ]
+}

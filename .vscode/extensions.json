@@ -1,3 +1,8 @@
 {
-  "recommendations": ["ziglang.vscode-zig", "editorconfig.editorconfig"]
+  "recommendations": [
+    "ziglang.vscode-zig",
+    "vadimcn.vscode-lldb",
+    "ms-vscode.hexeditor",
+    "editorconfig.editorconfig"
+  ]
 }

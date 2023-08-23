@@ -1,5 +1,6 @@
 {
   "zig.zls.enabled": true,
   "zig.zls.enableAutofix": true,
-  "zig.formattingProvider": "zls"
+  "zig.formattingProvider": "zls",
+  "debug.allowBreakpointsEverywhere": true
 }
