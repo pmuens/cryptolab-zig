@@ -10,8 +10,7 @@ Or put another way: **Don't use this in production**.
 
 1. `git clone git@github.com:pmuens/cryptolab-zig.git`
 2. `asdf install`
-3. `zig build`
-4. `zig test <name>`
+3. `zig build test`
 
 ## Useful Commands
 
@@ -22,6 +21,7 @@ zig init-lib
 zig init-exe
 
 zig build
+zig build test
 zig fmt
 zig test <name>
 zig run <name>
